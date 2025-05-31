@@ -50,22 +50,22 @@ export const Navbar = () => {
                   className="nav-link text-light"
                   href="https://wa.me/3105321069"
                 >
-                  <i className="fa-brands fa-whatsapp"  ></i>+923105321069
+                  <i className="fa-brands fa-whatsapp"  ></i>07577 007993
                 </a>
               </li>
             </ul>
             <div className="navbar-text pl-10px text-light">
-              <a href="https://twitter.com/EhteshamButt6">
+              <a href="https://twitter.com/">
                 <i className="f fa-brands fa-twitter-square fa-1x  bg-dark  text-light"></i>
               </a>
-              <a href="https://www.instagram.com/ehteshambutt58">
+              <a href="https://www.instagram.com/">
                 <i className="f fa-brands fa-instagram fa-1x text-white"></i>
               </a>
-              <a href="https://web.facebook.com/ehtesham.but.35/">
+              <a href="https://web.facebook.com/">
                 <i className="f fa fa-facebook-official fa-1x text-white"></i>
               </a>
 
-              <a href="https://www.youtube.com/channel/UCRsYOE3gr6TlTcCmXp_cR1Q">
+              <a href="https://www.youtube.com/channel/">
                 <i className="f fa-brands fa-youtube-square text-white"></i>
               </a>
             </div>

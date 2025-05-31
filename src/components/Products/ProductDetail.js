@@ -70,7 +70,7 @@ const ProductDetail = () => {
                         <span className="size" data-toggle="tooltip" title="large">Y</span>
                         <span className="size" data-toggle="tooltip" title="xtra large">IT</span>
                     </h5>
-                    <h5 className="colors">Islamabad:
+                    <h5 className="colors">London:
                  
                         {/* <span className="color green"></span>
                         <span className="color blue"></span> */}

@@ -21,7 +21,7 @@ export default function Slide() {
                     <h3 className="title text-dark">
                         WE PROVIDE YOU <span>SALOONIC SERVICES</span>
                     </h3>
-                    <p>Services and Products at your doorstep in Islamabad at very affordable price</p>
+                    <p>Services and Products at your doorstep in London at very affordable price</p>
                     <div className="btn_wrapper">
                         <a className="btn btn-dark" href="/">Get Started</a>
                     </div>

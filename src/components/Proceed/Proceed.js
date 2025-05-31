@@ -327,7 +327,7 @@ alert("Address submitted successfully Submitted")
                       required
                     >
                       <option value="">Choose...</option>
-                      <option>Pakistan</option>
+                      <option>United Kingdom</option>
                     </select>
                     <div className="invalid-feedback">
                       Please select a valid country.
@@ -363,7 +363,7 @@ alert("Address submitted successfully Submitted")
                       required
                     >
                       <option value="">Choose...</option>
-                      <option>Islamabad</option>
+                      <option>London</option>
                     </select>
                     <div className="invalid-feedback">
                       Please provide a valid city.

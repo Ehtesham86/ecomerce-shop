@@ -11,7 +11,7 @@ const Footer = () => {return(<>
                             <i className="fas fa-map-marker-alt"></i>
                             <div className="cta-text">
                                 <h4>Find us</h4>
-                                <span>Royale Avenue, Islamabad, Pakistan</span>
+                                <span>Royale Avenue, London, United Kingdom</span>
                             </div>
                         </div>
                     </div>
@@ -20,7 +20,7 @@ const Footer = () => {return(<>
                             <i className="fas fa-phone"></i>
                             <div className="cta-text">
                                 <h4>Call us</h4>
-                                <span>+923105321069</span>
+                                <span>07577 007993</span>
                             </div>
                         </div>
                     </div>
@@ -43,14 +43,14 @@ const Footer = () => {return(<>
                                 <Link to="#"><img src="/images/q.jpg" className="img-fluid" alt="logo"/></Link>
                             </div>
                             <div className="footer-text ">
-                                <p className='text-light'>Islamabad gets our service for the best for beauty due to the ease of scheduling
+                                <p className='text-light'>London gets our service for the best for beauty due to the ease of scheduling
                                  and a large variety of curated at-home beauty treatments by our beauty professionals.  </p>
                             </div>
                             <div className="footer-social-icon">
                                 <span>Follow us</span>
-                                <a href="https://web.facebook.com/ehtesham.but.35/"><i className="fab fa-facebook-f facebook-bg"></i></a>
-                                <a href="https://twitter.com/EhteshamButt6"><i className="fab fa-twitter twitter-bg"></i></a>
-                                <a href="https://ehteshambutt58@gmail.com"><i className="fab fa-google-plus-g google-bg"></i></a>
+                                <a href="https://web.facebook.com//"><i className="fab fa-facebook-f facebook-bg"></i></a>
+                                <a href="https://twitter.com/asif"><i className="fab fa-twitter twitter-bg"></i></a>
+                                <a href="https://Asif@gmail.com"><i className="fab fa-google-plus-g google-bg"></i></a>
                             </div>
                         </div>
                     </div>
@@ -95,7 +95,7 @@ const Footer = () => {return(<>
                 <div className="row">
                     <div className="col-xl-12 col-lg-12 text-center text-lg-center">
                         <div className="copyright-text">
-                            <p>Copyright &copy; 2022, All Right Reserved <Link to="#">Ehteshambutt58</Link></p>
+                            <p>Copyright &copy; 2022, All Right Reserved <Link to="#">Asif</Link></p>
                         </div>
                     </div>
                     

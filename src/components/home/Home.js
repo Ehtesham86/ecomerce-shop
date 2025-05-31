@@ -20,10 +20,10 @@ const Home = () => {
             <h2 className="p3">FastLanSalon</h2>
             <p>
               {" "}
-              FastLanSalon in Islamabad Pakistan With Best Team.The key to
+              FastLanSalon in London United Kingdom With Best Team.The key to
               FastLanSalon's success, with respect to its quality assured client
               satisfaction, are its well defined procedures. If you’re trying to
-              find a great barber in Islamabad, here are a few characteristics
+              find a great barber in London, here are a few characteristics
               that you should look for in a saloon or in a Shop
             </p>{" "}
           </div>
@@ -76,7 +76,7 @@ const Home = () => {
             <div className="card-body">
               <h5 className="card-title">Our Products</h5>
               <p className="card-text container mx-0">
-                Facial Kits products in Pakistan from imported and local brands
+                Facial Kits products in United Kingdom from imported and local brands
                 at lowest prices. ✓Guaranteed 100% Genuine products. ✓Cash on
                 delivery.
               </p>

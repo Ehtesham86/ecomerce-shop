@@ -18,7 +18,7 @@ const About  = () =>{
     <p className="about text-center">
   
 
-   The FastLaneSalon was created in MArch 2022 in a little shop at Islamabad.
+   The FastLaneSalon was created in MArch 2022 in a little shop at London.
        we believe in giving our customers the best quality products quickly and affordably!
        we offer high quality products at a affordable price. 
      </p>

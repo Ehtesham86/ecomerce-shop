@@ -210,7 +210,7 @@ const ServiceForm = () => {
                     <select className="form-select" id="country"value={country}
                       onChange={(e) => setCountry(e.target.value)} required>
                       <option value="">Choose...</option>
-                      <option>Pakistan</option>
+                      <option>United Kingdom</option>
                     </select>
                     <div className="invalid-feedback">
                       Please select a valid country.
@@ -246,7 +246,7 @@ const ServiceForm = () => {
                     <select className="form-select" id="city" value={city}
                       onChange={(e) => setCity(e.target.value)} required>
                       <option value="">Choose...</option>
-                      <option>Islamabad</option>
+                      <option>London</option>
                     </select>
                     <div className="invalid-feedback">
                       Please provide a valid state.

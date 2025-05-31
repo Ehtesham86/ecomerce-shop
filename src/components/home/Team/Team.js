@@ -28,7 +28,7 @@ export default function Team() {
     <div className="card m-5" data-aos="fade-up">
       <img src="./images/v.png" className="card-img-top rounded p" alt="..."/>
       <div className="card-body">
-        <h5 className="card-title">Mr.ALi</h5>
+        <h5 className="card-title">Mr.Marry</h5>
         <p className="card-text">Hair Cut,Hair dry,Protein Hair Wash,Stylish beard/Shave, Hair colour expert</p>
         <p className="card-text"><small className="text-muted">Trimmer</small></p>
       </div>
